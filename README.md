@@ -26,3 +26,26 @@ melalui browser: http://localhost/phpmyadmin
 
  ### Menambahkan data
  ![lab8web](img/menambhkandata1.png)
+
+ ## 3. Membuat Program CRUD
+Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
+![lab8web](img/folder.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: 
+http://localhost/lab8_php_database
+![lab8web](img/folder1.png)
+
+## Membuat file koneksi database
+Buat file baru dengan nama koneksi.php
+![lab8web](img/koneksi.png)
+
+Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan 
+koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
+![lab8web](img/koneksi1.png)
+
+## Membuat file index untuk menampilkan data (Read)
+Buat file baru dengan nama index.php
+
+![lab8web](img/index.png)
+
+![lab8web](img/index1.png)
