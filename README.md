@@ -22,10 +22,10 @@ melalui browser: http://localhost/phpmyadmin
  ![lab8web](img/databarang.png)
 
  ### Membuat tabel 
- ![lab8web](img/menambahkan%20data.png)
+ ![lab8web](img/menambhkandata1.png)
 
  ### Menambahkan data
- ![lab8web](img/menambhkandata1.png)
+ ![lab8web](img/menambahkan%20data.png)
 
  ## 3. Membuat Program CRUD
 Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
