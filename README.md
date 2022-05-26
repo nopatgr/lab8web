@@ -49,3 +49,26 @@ Buat file baru dengan nama index.php
 ![lab8web](img/index.png)
 
 ![lab8web](img/index1.png)
+
+## Menambah Data (Create)
+Buat file baru dengan nama tambah.php
+![lab8web](img/tambah.png)
+![lab8web](img/tambah3.png)
+![lab8web](img/tambah1.png)
+![lab8web](img/tambah2.png)
+
+## Mengubah Data (Update)
+Buat file baru dengan nama ubah.php
+![lab8web](img/ubah.png)
+
+![lab8web](img/ubah1.png)
+
+![lab8web](img/ubah2.png)
+
+## Menghapus Data (Delete)
+Buat file baru dengan nama hapus.php
+
+![lab8web](img/hapus1.png)
+
+![lab8web](img/hapus2.png)
+
